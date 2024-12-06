@@ -1,12 +1,11 @@
 import { defineConfig } from 'vitepress'
 
-const base: any = process.env.BASE_PATH ?? "/CoC7thChm-docs/";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: 'logo.svg' }]
   ],
-  base,
+  base:"/CoC7thChm-helpdoc/",
   lang: 'zh-CN',
   title: "COCchmhelpdoc",
   description: "帮助编辑不全书",
