@@ -5,7 +5,6 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: 'logo.svg' }]
   ],
-  base:"/CoC7thChm-helpdoc/",
   lang: 'zh-CN',
   title: "COCchmhelpdoc",
   description: "帮助编辑不全书",
