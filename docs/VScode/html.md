@@ -238,7 +238,7 @@ chm 文件里有两种链接，分别是导向别的项目的链接与导向网�
 
 ```html
 <P>
-<TABLE style="WIDTH: 100%; BORDER-COLLAPSE: collapse" borderColor=#000000 cellSpacing=0 cellPadding=2 width="100%" bgColor=#fffbf0 border=1>&nbsp;   
+<TABLE style="WIDTH: 100%; BORDER-COLLAPSE: collapse" borderColor=#000000 cellSpacing=0 cellPadding=2 width="100%" bgColor=#fffbf0 border=1>  
 <TR><TD>文本内容</TD></TR></TABLE></P>
 ```
 
