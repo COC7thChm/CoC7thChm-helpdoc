@@ -133,7 +133,8 @@ export default defineConfig({
           { text: '罪犯', link: '/demonstration/5' },
           { text: '莎布·尼古拉斯的黑山羊幼崽', link: '/demonstration/6' },
           { text: '修格斯主宰', link: '/demonstration/7' },
-          { text: '奈亚拉托提普', link: '/demonstration/8' }
+          { text: '奈亚拉托提普', link: '/demonstration/8' },
+          { text: '枪械弹药', link: '/demonstration/9' }
         ]
       }
     ],
@@ -230,7 +231,8 @@ export default defineConfig({
             { text: '罪犯', link: '/demonstration/5' },
             { text: '莎布·尼古拉斯的黑山羊幼崽', link: '/demonstration/6' },
             { text: '修格斯主宰', link: '/demonstration/7' },
-            { text: '奈亚拉托提普', link: '/demonstration/8' }
+            { text: '奈亚拉托提普', link: '/demonstration/8' },
+            { text: '枪械弹药', link: '/demonstration/9' }
           ]
         }
       ]
