@@ -13,42 +13,52 @@ title: 鸣谢列表
 
 - 999nonaploid
 - Setarium
-- 枫笛
-- 霧君
-- Alzgrey
-- tangys
 - 拂晓鵺啼
 - 西比尔腔棘鱼
-- Cadmium
-- 阿尔克赛尔罗斯
+- @Lisa_Corvinus
+- tangys
 - 街猫口苗
 - 西柚吉
-- DDD
-- 埃兰迪斯
+- Achronidas
+- 阿尔克赛尔罗斯
 - 敬雁飞
-- 晓雯
-- Diose
-- 奥利奥
+- 小兰
+- Alzgrey
+- 埃兰迪斯
 - 玖龙
-- 臧舟
-- Ophidia
+- 小笼包
+- Cadmium
+- 奥利奥
+- 拉夫
+- 晓雯
+- DDD
 - 白鵺
 - 令有时
-- 战樱
-- PhaethonD
+- 与星遗物邂逅的墨
+- Diose
 - 飙车致死法厄同
 - 南嘉
-- 张琦
-- Ra
-- 冰寒
+- 月黑风高
+- Ophidia
+- 冰冰的大白兔
 - 七宫涟
-- 竹子
-- Ra 酱
+- 臧舟
+- PhaethonD
+- 冰寒
+- 秋叶EXODUS
+- 战樱
+- Ra
 - 不锈钢打
-- 秋叶 EXODUS
-- Rua
+- 天醉
+- 张琦
+- Ra酱
 - 丛雨
 - 雾君
+- 竹子
+- Rua
+- 枫笛
+- 霧君
+- 走钢丝的狮子
 
 ## 感谢以下人员制作、编辑、排版不全书 CHM
 
